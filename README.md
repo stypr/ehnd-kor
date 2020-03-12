@@ -7,7 +7,12 @@
 
 공식 페이지 : http://sokcuri.neko.kr/220301117949
 
-Ehnd-Kor 버전은 Ehnd의 번역 기능을 한->일 번역이 가능한 버전으로 만든 파일입니다. 기존 사용자 사전 알고리즘은 제거하였습니다.
+Ehnd-Kor은 Ehnd의 기존 일->한 번역 기능을 한->일 번역이 가능하도록 수정한 버전입니다. 
+
+기존 사용자 사전 알고리즘은 제거하였습니다.
+
+[DLL 다운로드](https://github.com/stypr/ehnd-kor/releases/)
+
 
 ## License
 GNU GPLv3
