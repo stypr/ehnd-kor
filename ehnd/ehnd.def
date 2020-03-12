@@ -1,0 +1,15 @@
+LIBRARY	EHND
+EXPORTS
+ 	K2J_Initialize
+ 	K2J_InitializeEx
+ 	K2J_FreeMem
+ 	K2J_GetPriorDict
+ 	K2J_ReloadUserDict
+ 	K2J_SetPriorDict
+ 	K2J_SetProperty
+ 	K2J_StopTranslation
+ 	K2J_Terminate
+ 	K2J_TranslateChat
+ 	K2J_TranslateMMEx
+ 	K2J_TranslateMMNT
+ 	K2J_TranslateMMNTW
